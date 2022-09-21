@@ -12,7 +12,7 @@
   "no-permission": "&cJe hebt hiervoor geen rechten.",
   "integrations-check-failed-create": "&cIntegratie {0} heeft de aanmaak van de winkel geweigerd",
   "integrations-check-failed-trade": "&cIntegratie {0} heeft de aanmaak van de winkel geweigerd",
-  "3rd-plugin-build-check-failed": "&c3rd party plugin &l{0}&r&c denied the protection checks (build protection), did you have build permission of this 3rd plugin? If is not expected, please contact admin.",
+  "3rd-plugin-build-check-failed": "&c3de partij plugin &l{0}&r&c heeft de protectie controle geweigerd (bouw protectie), heb je permissies om te bouwen van deze 3de partij plugin? Als het niet verwacht is, contacteer dan een admin.",
   "3rd-plugin-build-check-failed-admin": "&7(AdminOnly) &d{0} &8denied the protection checks (build protection), If this not excepted, try add &d{1} &7to listener blacklist. &7Configure Guide: https://github.com/PotatoCraft-Studio/QuickShop-Reremake/wiki/Use-protection-listener-filter",
   "no-creative-break": "&cJe kan de shops van andere spelers niet kapot maken in creative mode, switch naar survival mode of probeer de supertool {0}",
   "trading-in-creative-mode-is-disabled": "&cJe kan niet met deze winkel handelen terwijl je in creatieve modus bent.",
